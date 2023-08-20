@@ -1,10 +1,17 @@
+// Write a C Program to enter two numbers and find their sum.
+
 #include<iostream.h>
 #include<conio.h>
 void main()
 {
-  clrscr();
-   cout<<"220130318052";
-   cout<<"Nand Hingrajiya";
-   cout<<"Nand";
-  getch();
+	int a,b,sum=0;
+	clrscr();
+	cout<<"220130318052";
+	cout<<"Nand Hingrajiya";
+	cout<<"Enter Number 1::";
+	cin>>a;
+	cout<<"Enter Number 2::";
+	cin>>b;
+	cout<<"sum is ::"<<a+b;
+	getch();
 }
