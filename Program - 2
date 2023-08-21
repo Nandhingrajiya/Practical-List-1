@@ -18,7 +18,7 @@ int main()
 {
 	temp t;
 	float f;
-	cout<<"My Name Is Hingrajiya Nand"<<endl;
+	cout<<"My Name Is Nand Hingrajiya"<<endl;
 	cout<<"En_no    220130318052"<<endl;
 	cout<<"Enter the Teamprature in fahernhit : ";
 	cin>>f;
