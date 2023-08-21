@@ -1,1 +1,0 @@
-# Practical list 1
